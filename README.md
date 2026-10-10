@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**abrahanfarias/abrahanfarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Abrahan Farias
+## Software Developer | Full Stack & Backend
+Software developer junior with practical experience since 2023 building web and desktop applications. I work with Python and Rust, REST APIs, authentication, testing, Docker, Git, WebSockets, and JavaScript/TypeScript.
+### What I do
+- Build and maintain backend services and web applications
+- Integrate APIs and authentication flows
+- Write tests and technical documentation
+- Collaborate with version control and agile workflows
+### Technologies
+`Python` `Rust` `JavaScript` `TypeScript` `REST APIs` `WebSockets` `Docker` `Git`
+### Current focus
+Remote Full Stack and Backend opportunities, software quality, and practical product development.
+> Selected work and private projects can be discussed upon request.
